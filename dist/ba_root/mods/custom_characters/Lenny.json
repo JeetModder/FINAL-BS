@@ -1,0 +1,44 @@
+{
+    "color_mask": "bunnyColorMask",
+    "color_texture": "bunnyColor",
+    "head": "bunnyHead",
+    "hand": "bunnyHand",
+    "torso": "frostyTorso",
+    "pelvis": "bomb",
+    "upper_arm": "bunnyUpperArm",
+    "forearm": "bunnyForeArm",
+    "upper_leg": "neoSpazUpperLeg",
+    "lower_leg": "neoSpazLowerLeg",
+    "toes_model": "neoSpazToes",
+    "jump_sounds": [
+        "ali1",
+        "ali2",
+        "ali3",
+        "ali4"
+    ],
+    "attack_sounds": [
+        "ali1",
+        "ali2",
+        "ali3",
+        "ali4"
+    ],
+    "impact_sounds": [
+        "aliHit1",
+        "aliHit2"
+    ],
+    "death_sounds": [
+        "aliDeath"
+    ],
+    "pickup_sounds": [
+        "ali1",
+        "ali2",
+        "ali3",
+        "ali4"
+    ],
+    "fall_sounds": [
+        "aliFall"
+    ],
+    "icon_texture": "bunnyIcon",
+    "icon_mask_texture": "bunnyIconColorMask",
+    "style": "bunny"
+}

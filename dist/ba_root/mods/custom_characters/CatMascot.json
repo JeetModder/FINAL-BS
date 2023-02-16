@@ -1,0 +1,44 @@
+{
+    "color_mask": "frostyColorMask",
+    "color_texture": "aliColor",
+    "head": "aliHead" ,
+    "hand": "aliHand",
+    "torso": "aliTorso",
+    "pelvis": "aliPelvis",
+    "upper_arm": "aliUpperArm",
+    "forearm": "aliForeArm",
+    "upper_leg": "aliUpperLeg",
+    "lower_leg": "aliLowerLeg",
+    "toes_model": "aliToes",
+    "jump_sounds": [
+        "ali1",
+        "ali2",
+        "ali3",
+        "ali4"
+    ],
+    "attack_sounds": [
+        "ali1",
+        "ali2",
+        "ali3",
+        "ali4"
+    ],
+    "impact_sounds": [
+        "aliHit1",
+        "aliHit2"
+    ],
+    "death_sounds": [
+        "aliDeath"
+    ],
+    "pickup_sounds": [
+        "ali1",
+        "ali2",
+        "ali3",
+        "ali4"
+    ],
+    "fall_sounds": [
+        "aliFall"
+    ],
+    "icon_texture": "aliIcon",
+    "icon_mask_texture": "aliIconColorMask",
+    "style": "ali"
+}

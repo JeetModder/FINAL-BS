@@ -1,0 +1,129 @@
+{
+    "whitelist": false,
+    "useV2Account": false,
+    "Anti-IdRevealer": false,
+    "ChatCommands": {
+  	  "BrodcastCommand": true
+    },
+    "textonmap": {
+        "top watermark": "",
+        "bottom left watermark": "\n\nOwner : \ue043Jeet\ue043\nDiscord : https://dsc.gg/jeet",
+        "center highlights":{
+            "color":[1,0,0],
+            "randomColor":true,
+            "msg":[
+                "\ue048Join discord now and get free custom tags\ue048",
+                "Join our DISCORD family through - https://dsc.gg/jeet",
+                "\ue047Or click on STATS and join DISCORD\ue047",
+                "\ue047Join DISCORD and find someone to play with\ue047",
+                "\ue048Top 3 will get one month VIP\ue048",
+                "Check /me, /ping, end, .msg",
+                "Ranks are reset at the end of every month",
+                "ABUSE, SPAM & BETRAY = BAN",
+                "Send your complains or suggestions in discord"
+                ]
+        }
+    },
+    "statsResetAfterDays":31,
+    "leaderboard":{
+        "enable":true,
+        "barsBehindName":false
+    },
+    "autoNightMode":{
+        "enable":false,
+        "startTime":"18:30",
+        "endTime":"06:00",
+        "fireflies":false,
+        "fireflies_random_color":false
+    },
+    "colorfullMap":false,
+    "playlists":{
+        "d":380795,
+        "d2":401269,
+        "d3":405231,
+        "d4":406158,
+        "fun":377269,
+        "elim":377268,
+        "pro":379052,
+        "smash":383419,
+        "death":383420,
+        "solo":395299,
+        "fungames":374313
+    },
+    "coopModeWithLessPlayers":{
+        "enable":false,
+        "minPlayerToExitCoop":0
+    },
+    "mikirogQuickTurn":{
+        "enable":false
+    },
+    "colorful_explosions":{
+        "enable":true
+    },
+    "ballistica_web": {
+        "enable":false
+    },
+    "character_chooser":{
+        "enable":true
+    },
+    "custom_characters": {
+        "enable":true
+    },
+    "StumbledScoreScreen":true,
+    "elPatronPowerups":{
+        "enable":true,
+        "settings":{"Powers Gravity": false,
+            "Tank Shield PTG": 96,
+            "Healing Damage PTG": 72,
+            "Powerup Style": "Auto",
+            "Powerup Scale": 1.0,
+            "Powerup Name": false,
+            "Powerup With Shield": false,
+            "Powerup Time": false},
+        "Quantity":{ "Shield": 0,
+             "Punch": 0, "Mine Bombs": 2,
+            "Impact Bombs": 3, "Ice Bombs": 3, "Triple": 3,
+            "Sticky Bombs": 3, "Curse": 1, "Health": 1,
+            "Speed": 0, "Healing Damage": 0, "Goodbye": 0,
+            "Ice Man": 0,"Tank Shield": 0, "Impairment Bombs": 0,
+            "Fire Bombs": 0, "Fly Bombs": 0}
+    },
+    "discordbot":{
+        "enable":true,
+        "token":"MTAxNjA0NzQzMjgzODE1NjM3MA.GCFCDO._c8O14ai_ax2FiGXSLaf61a6L2go8AO18HJAyo",
+        "liveChat":true,
+        "liveStatsChannelID":991755883539353682,
+        "logsChannelID":992416255057346620
+    },
+    "afk_remover":{
+        "enable":false,
+        "ingame_idle_time_in_secs":60,
+        "kick_idle_from_lobby":true,
+        "lobby_idle_time_in_secs":10
+    },
+    "allowTeamChat":true,
+    "allowEndVote":true,
+    "allowInGameChat":true,
+    "sameCharacterForTeam":false,
+    "newResultBoard":true,
+    "HostDeviceName":"v1.4",
+    "HostName":"Jeet",
+    "ShowKickVoteStarterName":true,
+    "KickVoteMsgType":"chat",
+    "minAgeToChatInHours":78,
+    "minAgeToJoinInHours":24,
+    "maxWarnCount":2,
+    "WarnCooldownMinutes":30,
+    "warnMsg":"WARNING !!!",
+    "afterWarnKickMsg":"Enough warnings, Goodbye have a nice day :)",
+    "firstTimeJoinMsg":"Welcome to the server,we r saving all your account details and chats",
+    "regularWelcomeMsg":"Welcome Back",
+    "enabletags": true,
+    "enablehptag": true,
+    "enablerank": true,
+    "enablestats": true,
+    "enableHitTexts": true,
+    "enableeffects": true,
+    "enableTop5effects": true,
+    "enableTagAnimation":true
+}

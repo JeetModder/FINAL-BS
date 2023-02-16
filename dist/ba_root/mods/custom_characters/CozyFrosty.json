@@ -1,0 +1,48 @@
+{
+    "color_mask": "jackColorMask",
+    "color_texture": "frostyColor",
+    "head": "frostyHead" ,
+    "hand": "frostyHand",
+    "torso": "frostyTorso",
+    "pelvis": "frostyPelvis",
+    "upper_arm": "frostyUpperArm",
+    "forearm": "frostyForeArm",
+    "upper_leg": "frostyUpperLeg",
+    "lower_leg": "frostyLowerLeg",
+    "toes_model": "frostyToes",
+    "jump_sounds": [
+        "frosty01",
+        "frosty02",
+        "frosty03",
+        "frosty04",
+        "frosty05"
+    ],
+    "attack_sounds": [
+        "frosty01",
+        "frosty02",
+        "frosty03",
+        "frosty05",
+        "frosty05"
+    ],
+    "impact_sounds": [
+        "frostyHit01",
+        "frostyHit02",
+        "frostyHit03"
+    ],
+    "death_sounds": [
+        "frostyDeath"
+    ],
+    "pickup_sounds": [
+        "frosty01",
+        "frosty02",
+        "frosty03",
+        "frosty04",
+        "frosty05"
+    ],
+    "fall_sounds": [
+        "frostyFall"
+    ],
+    "icon_texture": "frostyIcon",
+    "icon_mask_texture": "frostyIconColorMask",
+    "style": "frosty"
+}
